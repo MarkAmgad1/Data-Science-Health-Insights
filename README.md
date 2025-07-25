@@ -40,12 +40,6 @@ Data-Science-Health-Insights/
 
 ---
 
-## 📷 Dashboard Preview
-
-> 📎 The Power BI `.pbix` file provides rich visualizations for age groups, risk factors, and outcome predictions.
-
----
-
 ## 🧠 Tools Used
 
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
